@@ -1,4 +1,4 @@
 package model.exceptions;
 
-public class reservation {
+public class teste {
 }
